@@ -1,1 +1,3 @@
 # ML-Crypto-Trading-Strategy
+
+Cryptocurrency trading volume has increased dramatically since 2009, when Satoshi Nakamoto first implemented Bitcoin and made it publicly available. Especially over the past two years, where cryptocurrency trading has been increasing at an exponential rate. In this study, we use cryptocurrency market data across 14 different tokens as input to attempt to utilize a recurrent neu- ral network, specifically a long short-term memory, to implement a trading strategy that can profitably trade USD with Bitcoin over an extended period of time. In the end, we were able to achieve this relatively successfully, with our primary takeaway showing the difficulty of predicting asset targets removing market movements.
